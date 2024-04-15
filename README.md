@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A Software Engineer, Front End Developer, Game Developer</h3>
+<h1 align="center">Hi 👋, I'm Ruby</h1>
+<h3 align="center">A Software Engineer, Full Stack Developer, Game Developer</h3>
 
-- 🌱 I’m currently learning **Django5, Machine Learning, ScikitLearn, Tensorflow,Flask**
+- 🌱 I’m currently learning **Solidity++, Unity Kinematica, NVIDIA Ampere, Flutter, Microsoft Azure**
 
 - 💬 Ask me about **Python Progamming, Unity Game Development, Django5**
 
